@@ -20,6 +20,7 @@ const ProgressCalendarPage = () => {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState('');
   const [selectedDate, setSelectedDate] = useState(new Date());
+  // eslint-disable-next-line no-unused-vars
   const navigate = useNavigate();
 
   const fetchHabits = useCallback(async () => {
