@@ -1,6 +1,9 @@
 {
   "name": "habit-tracker-frontend",
   "version": "0.1.0",
+  "engines": {
+  "node": "18.x"
+},
   "private": true,
   "dependencies": {
     "lucide-react": "^1.16.0",
