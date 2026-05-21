@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:5000/api';
+const API_URL = 'https://habit-flow-owp7.onrender.com/api';
 
     const getAuthHeaders = () => {
     const user = JSON.parse(localStorage.getItem('user'));
