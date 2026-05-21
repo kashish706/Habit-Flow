@@ -18,7 +18,7 @@ const MonthlyCalendar = ({ habits, selectedDate, onDateSelect }) => {
     const numDays = lastDay.getDate();
 
     const days = [];
-    for (let i = 1; i <= numDays; i++) {
+    for (let i = 1; i <= numDays; i++) {n
       days.push(new Date(year, month, i));
     }
     return days;
