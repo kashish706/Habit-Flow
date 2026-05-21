@@ -15,6 +15,7 @@ connectDB();
 app.use(cors({
   origin: [
     "http://localhost:3000",
+    "https://habit-flow-chi-ecru.vercel.app",
   ],
   methods: ["GET", "POST", "PUT", "DELETE"],
   allowedHeaders: ["Content-Type", "Authorization"],
