@@ -13,8 +13,7 @@ const MonthlyCalendar = ({ habits, selectedDate, onDateSelect }) => {
   const getDaysInMonth = (date) => {
     const year = date.getFullYear();
     const month = date.getMonth();
-    // eslint-disable-next-line no-unused-vars
-    const firstDay = new Date(year, month, 1);
+    //const firstDay = new Date(year, month, 1);
     const lastDay = new Date(year, month + 1, 0);
     const numDays = lastDay.getDate();
 
