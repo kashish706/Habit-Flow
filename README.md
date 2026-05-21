@@ -154,7 +154,7 @@ The app will open at **http://localhost:3000**
 ## 👨‍💻 Author
 
 **Your Name**
-[GitHub](https://github.com/your-username) 
+[GitHub](https://github.com/kashish706) 
 
 ---
 
