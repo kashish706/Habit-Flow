@@ -4,13 +4,13 @@ A full-stack daily habit tracking web application built with the MERN stack. Use
 
 ---
 
-## 🚀 Live Demo
-
+## Live Demo
+[HabitFlow](https://habit-flow-chi-ecru.vercel.app/)
 > Run locally — see setup instructions below.
 
 ---
 
-## ✨ Features
+## Features
 
 - 🔐 User registration and login with JWT authentication
 - ➕ Add habits with name and time of day
@@ -24,7 +24,7 @@ A full-stack daily habit tracking web application built with the MERN stack. Use
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |---|---|
@@ -37,7 +37,7 @@ A full-stack daily habit tracking web application built with the MERN stack. Use
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Daily-Habit-Tracker/
@@ -80,7 +80,7 @@ Daily-Habit-Tracker/
 
 ---
 
-## ⚙️ Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -129,7 +129,7 @@ The app will open at **http://localhost:3000**
 
 ---
 
-## 🔑 Environment Variables
+## Environment Variables
 
 | Variable | Description |
 |---|---|
@@ -139,7 +139,7 @@ The app will open at **http://localhost:3000**
 
 ---
 
-## 📸 Pages
+## Pages
 
 | Page | Description |
 |---|---|
@@ -151,13 +151,13 @@ The app will open at **http://localhost:3000**
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Your Name**
 [GitHub](https://github.com/kashish706) 
 
 ---
 
-## 📄 License
+## License
 
 This project is for educational purposes.
