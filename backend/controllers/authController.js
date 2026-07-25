@@ -16,13 +16,13 @@ const registerUser = async (req, res) => {
   const { username, password } = req.body;
 
   if (!username || !password) {
-    return res.status(400).json({ message: 'Please enter all fields' });
+    return res.status(406).json({ message: 'Please enter all fields' });
   }
 
   // Check if user exists
   const userExists = await User.findOne({ username });
   if (userExists) {
-    return res.status(400).json({ message: 'User already exists' });
+    return res.status(409).json({ message: 'User already exists' });
   }
 
   // Create user
