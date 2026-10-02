@@ -151,13 +151,6 @@ The app will open at **http://localhost:3000**
 
 ---
 
-## Author
-
-**Your Name**
-[GitHub](https://github.com/kashish706) 
-
----
-
 ## License
 
 This project is for educational purposes.
